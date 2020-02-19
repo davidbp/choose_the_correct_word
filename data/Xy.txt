@@ -1,4 +1,4 @@
-
-"The low manufacturing cost of tiny PCs has/have contributed to the increase of open source code." , "has"
-"The low manufacturing costs computers has/have contributed to the increase of open source code." , "have"             
+"X","y"
+"The low manufacturing cost of tiny PCs has/have contributed to the increase of open source code.","has"
+"The low manufacturing costs computers has/have contributed to the increase of open source code.","have"
 
